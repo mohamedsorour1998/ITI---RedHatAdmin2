@@ -15,8 +15,8 @@ sudo mkdir /data
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425060-f6958192-38d1-4601-8035-e622aad73319.png)
 8. Mount the new filesystem. 
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425069-2120e87b-02d9-4883-9c05-0461760c9544.png)
-9. Display your swap size. \ 
-![My Remote Image](https://user-images.githubusercontent.com/110028481/209425001-46b89eed-6339-4023-8ea1-9ae01dc35db2.png)
+9. Display your swap size.
+\ ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425001-46b89eed-6339-4023-8ea1-9ae01dc35db2.png)
 10. Create a swap file of size 512MB. 
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209424995-e3422d4f-9068-4554-af08-75fec1f5ff1d.png)
 11. Add the swap file to the virtual memory of the system.
