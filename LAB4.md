@@ -9,13 +9,13 @@ Yes it felt it \
 4. Make a new ext2 file system on the new logical partition you just created. \
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425049-e9702361-2939-4c59-8132-4a3f80d3eae3.png)
 5. Create a directory, name it /data. 
-sudo mkdir /data \
+sudo mkdir /data 
 6. Add a label to the new filesystem, name it data. done
 7. Add a new entry to /etc/fstab for the new filesystem using the label you just create. \
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425060-f6958192-38d1-4601-8035-e622aad73319.png)
 8. Mount the new filesystem. 
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425069-2120e87b-02d9-4883-9c05-0461760c9544.png)
-9. Display your swap size. 
+9. Display your swap size. \ 
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209425001-46b89eed-6339-4023-8ea1-9ae01dc35db2.png)
 10. Create a swap file of size 512MB. 
 ![My Remote Image](https://user-images.githubusercontent.com/110028481/209424995-e3422d4f-9068-4554-af08-75fec1f5ff1d.png)
